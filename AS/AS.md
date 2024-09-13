@@ -55,15 +55,15 @@ The course aims to provide a deep understanding of security and privacy in Inter
 
 ## Assignements
 
-- Workshop #1 - [Electronic Signatures Standardization](AS_WS1_Standardization.pdf)
+- **Workshop #1** - [Electronic Signatures Standardization](AS_WS1_Standardization.pdf)
  
 This document presents general information about electronic signatures, lists the three standards used, details the most widely used of the three, and concludes.
 
-- Workshop #2 - [ORM Injection](AS_WS2_ORMi.pdf)
+- **Workshop #2** - [ORM Injection](AS_WS2_ORMi.pdf)
 
 This presentation explains what is an ORM injection, what are the potential impacts and how can it be prevented.
 
-- Workshop #3 - IoT Security in Schools
+- **Workshop #3** - IoT Security in Schools
   - [Article](AS_WS3_IoT_Security_in_Schools_Article.pdf)
   - [(Presentation)](AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
 
@@ -71,7 +71,7 @@ This document explores the dynamic interplay of IoT technology in the educationa
 particularly focusing on its applications, cybersecurity challenges, and regulatory
 considerations.
 
-- Project - Security by Design Web Development
+- **Project** - Security by Design Web Development
   - [Report](AS_Project_Report.pdf)
   - [Repository](https://github.com/blueh0rse/note-taking-app)
 
