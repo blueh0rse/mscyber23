@@ -102,6 +102,6 @@ The repository is structured by subject, with each folder containing detailed in
 ### 💥 Master Thesis - Huntdown
 
 - **Credits**: 12 ECTS
-- **Grade**: ?/10
+- **Grade**: 9.5/10
 - **Summary**: The capstone project of the master's program, where theoretical knowledge and practical skills are applied to conduct original research or solve a complex cybersecurity problem.
 - [Detailed Overview](ms/TFM/TFM.md)
