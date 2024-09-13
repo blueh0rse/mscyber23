@@ -40,7 +40,7 @@ The repository is structured by subject, with each folder containing detailed in
 - **Workshop #2** - [ORM Injection](AS/AS_WS2_ORMi.pdf)
 - **Workshop #3** - IoT Security in Schools
   - [Article](AS/AS_WS3_IoT_Security_in_Schools_Article.pdf)
-  - [(Presentation)](AS/AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
+  - [Presentation](AS/AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
 - **Project** - Security by Design Web Development
   - [Report](AS/AS_Project_Report.pdf)
   - [Repository](https://github.com/blueh0rse/note-taking-app)

@@ -24,7 +24,7 @@ This presentation explains what is an ORM injection, what are the potential impa
 
 - **Workshop #3** - IoT Security in Schools
   - [Article](AS_WS3_IoT_Security_in_Schools_Article.pdf)
-  - [(Presentation)](AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
+  - [Presentation](AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
 
 This document explores the dynamic interplay of IoT technology in the educational sector,
 particularly focusing on its applications, cybersecurity challenges, and regulatory
