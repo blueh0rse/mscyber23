@@ -23,7 +23,7 @@ confidentiality, integrity and authentication
 
 In this lab we propose a easy-to-implement key-recovery attack against a particular mode of operation of RC4.
 
-- **Lab 2** - MAC forgery Attacks
+- **Lab 2** - MAC Forgery Attacks
   - [Report](./DPROT_Lab2_MAC_Forgery_Attacks.pdf)
   - [Code](https://github.com/blueh0rse/mac-forgery-attacks)
 

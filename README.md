@@ -72,7 +72,7 @@ The repository is structured by subject, with each folder containing detailed in
 - **Lab 1** - RC4 Practical Attack
   - [Report](./DPORT_Lab1_RC4_Practical_Attack.pdf)
   - [Code](https://github.com/blueh0rse/rc4-breaker)
-- **Lab 2** - MAC forgery Attacks
+- **Lab 2** - MAC Forgery Attacks
   - [Report](./DPROT_Lab2_MAC_Forgery_Attacks.pdf)
   - [Code](https://github.com/blueh0rse/mac-forgery-attacks)
 - **Lab 3** - Merkle Tree
@@ -91,6 +91,17 @@ The repository is structured by subject, with each folder containing detailed in
 - **Credits**: 5 ECTS
 - **Summary**: Explores the lifecycle of malware, including its development, deployment, and countermeasures. The course also covers various types of malware, techniques of infection, and ethical implications.
 - [Detailed Overview](MALW/MALW.md)
+
+#### Assignements
+
+- **Lab 1** - Rootkit
+- **Lab 2** - Shellcoding
+- **Lab 3** - Infection Propagation
+- **Lab 4** - Obfuscation
+- **Lab 5** - OWASP Juice Shop
+- **Project** - Malware Development
+  - [Report](./MALW_Project_Report.pdf)
+  - [Repository](https://github.com/blueh0rse/ransom-worm)
 
 ### 🖥️ Network Security
 
