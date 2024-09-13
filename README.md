@@ -29,43 +29,43 @@ The repository is structured by subject, with each folder containing detailed in
 
 ### 🌐 Application Security
 
-- **Credits**: 5 ECTS
 - **Grade**: 6.2/10
+- **Credits**: 5 ECTS
 - **Summary**: Focuses on the security aspects of Internet applications, covering principles like privacy by design, security in eHealth, and multimedia content. It also explores the latest security challenges in modern web applications.
 - [Detailed Overview](AS/AS.md)
 
 ### ⛓️ Blockchain
 
-- **Credits**: 5 ECTS
 - **Grade**: 7.6/10
+- **Credits**: 5 ECTS
 - **Summary**: Provides an in-depth understanding of blockchain technology, including centralized and decentralized systems, cryptographic protocols, and the development of secure smart contracts. 
 - [Detailed Overview](BKCHAIN/BKCHAIN.md)
 
 ### 🔐 Data Protection
 
-- **Credits**: 5 ECTS
 - **Grade**: 7.3/10
+- **Credits**: 5 ECTS
 - **Summary**: Covers cryptographic techniques used to protect data, ensuring confidentiality, integrity, and authenticity. The course delves into symmetric and asymmetric encryption, key management, and privacy-preserving technologies.
 - [Detailed Overview](DPROT/DPROT.md)
 
 ### 🪱 Malware
 
-- **Credits**: 5 ECTS
 - **Grade**: 5.6/10
+- **Credits**: 5 ECTS
 - **Summary**: Explores the lifecycle of malware, including its development, deployment, and countermeasures. The course also covers various types of malware, techniques of infection, and ethical implications.
 - [Detailed Overview](MALW/MALW.md)
 
 ### 🖥️ Network Security
 
-- **Credits**: 5 ECTS
 - **Grade**: 8.1/10
+- **Credits**: 5 ECTS
 - **Summary**: Focuses on securing data communication networks, including the design and implementation of security protocols, perimeter defenses, VPNs, and advanced network forensic techniques.
 - [Detailed Overview](NS/NS.md)
 
 ### 🚦 Traffic Monitoring & Analysis
 
-- **Credits**: 5 ECTS
 - **Grade**: 8/10
+- **Credits**: 5 ECTS
 - **Summary**: Teaches techniques for monitoring and analyzing network traffic with a focus on cybersecurity applications. The course includes methods for traffic classification, DDoS detection, and privacy considerations in network monitoring.
 - [Detailed Overview](TMA/TMA.md)
 
@@ -73,35 +73,35 @@ The repository is structured by subject, with each folder containing detailed in
 
 ### 🗡️ Cybersecurity Use-cases
 
-- **Credits**: 5 ECTS
 - **Grade**: 8.4/10
+- **Credits**: 5 ECTS
 - **Summary**: Provides practical experience with real-world cybersecurity scenarios, emphasizing the application of theoretical knowledge to solve complex security challenges.
 - [Detailed Overview](UCASES/UCASES.md)
 
 ### 🔧 Hardware Security
 
-- **Credits**: 3 ECTS
 - **Grade**: 6.5/10
+- **Credits**: 3 ECTS
 - **Summary**: Focuses on securing hardware components, covering topics such as side-channel attacks, hardware-based cryptographic modules, and secure hardware design principles.
 - [Detailed Overview](HSES/HSES.md)
 
 ### 🔑 Network Security - Authentication & Authorization
 
-- **Credits**: 5 ECTS
 - **Grade**: 8.5/10
+- **Credits**: 5 ECTS
 - **Summary**: Delves into authentication and authorization mechanisms within network security, including the implementation of AA (Authentication and Authorization) protocols and secure access control systems.
 - [Detailed Overview](NSAA/NSAA.md)
 
 ### 🛡️ Software-Defined Security
 
-- **Credits**: 5 ECTS
 - **Grade**: 7.6/10
+- **Credits**: 5 ECTS
 - **Summary**: Explores the concept of software-defined security, focusing on the implementation of security policies through programmable infrastructure, and the integration of security services in cloud environments.
 - [Detailed Overview](SDS/SDS.md)
 
-### 💥 Master Thesis - Huntdown
+### 💥 Thesis - Huntdown
 
-- **Credits**: 12 ECTS
 - **Grade**: 9.5/10
-- **Summary**: The capstone project of the master's program, where theoretical knowledge and practical skills are applied to conduct original research or solve a complex cybersecurity problem.
+- **Credits**: 12 ECTS
+- **Summary**: I joined the [HuntDown](https://gitlab.com/HuntDownUPC/HuntDown) project, a Go software automating pentests. I improved it's security and stability though the changes I made.
 - [Detailed Overview](TFM/TFM.md)
