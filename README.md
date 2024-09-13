@@ -34,6 +34,17 @@ The repository is structured by subject, with each folder containing detailed in
 - **Summary**: Focuses on the security aspects of Internet applications, covering principles like privacy by design, security in eHealth, and multimedia content. It also explores the latest security challenges in modern web applications.
 - [Detailed Overview](AS/AS.md)
 
+#### Assignements
+
+- **Workshop #1** - [Electronic Signatures Standardization](AS/AS_WS1_Standardization.pdf)
+- **Workshop #2** - [ORM Injection](AS/AS_WS2_ORMi.pdf)
+- **Workshop #3** - IoT Security in Schools
+  - [Article](AS/AS_WS3_IoT_Security_in_Schools_Article.pdf)
+  - [(Presentation)](AS/AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
+- **Project** - Security by Design Web Development
+  - [Report](AS/AS_Project_Report.pdf)
+  - [Repository](https://github.com/blueh0rse/note-taking-app)
+
 ### ⛓️ Blockchain
 
 - **Grade**: 7.6/10
@@ -41,12 +52,38 @@ The repository is structured by subject, with each folder containing detailed in
 - **Summary**: Provides an in-depth understanding of blockchain technology, including centralized and decentralized systems, cryptographic protocols, and the development of secure smart contracts. 
 - [Detailed Overview](BKCHAIN/BKCHAIN.md)
 
+#### Assignements
+
+- **Lab #1** - [ETH Testnet Transaction](./BKCHAIN_Lab1_Send_ETH_using_Sepolia.pdf)
+- **Lab #2** - Interact with a smart contract using Remix
+- **Final Work** - Security in Smart Contracts
+  - [Research Paper](BKCHAIN_Security_in_Smart_Contracts_Paper.pdf)
+  - [Presentation](BKCHAIN_Security_in_Smart_Contracts_Presentation.pdf)
+
 ### 🔐 Data Protection
 
 - **Grade**: 7.3/10
 - **Credits**: 5 ECTS
 - **Summary**: Covers cryptographic techniques used to protect data, ensuring confidentiality, integrity, and authenticity. The course delves into symmetric and asymmetric encryption, key management, and privacy-preserving technologies.
 - [Detailed Overview](DPROT/DPROT.md)
+
+#### Assignements
+
+- **Lab 1** - RC4 Practical Attack
+  - [Report](./DPORT_Lab1_RC4_Practical_Attack.pdf)
+  - [Code](https://github.com/blueh0rse/rc4-breaker)
+- **Lab 2** - MAC forgery Attacks
+  - [Report](./DPROT_Lab2_MAC_Forgery_Attacks.pdf)
+  - [Code](https://github.com/blueh0rse/mac-forgery-attacks)
+- **Lab 3** - Merkle Tree
+  - [Report](./DPROT_Lab3_Merkle_Tree.pdf)
+  - [Code](https://github.com/blueh0rse/build-merkle-tree)
+- **Lab 4** - Public Key Encryption
+  - [Report](./DPROT_Lab4_Public_Key_Encryption.pdf)
+  - [Code](https://github.com/blueh0rse/pubk-enc)
+- **Lab 5** - Digital Signatures
+  - [Report](./DPROT_Lab5_Digital_Signatures.pdf)
+- **Final work** - [Quantum Key Exchange Paper](./DPROT_Project_Quantum_Key_Exchange_Paper.pdf)
 
 ### 🪱 Malware
 
