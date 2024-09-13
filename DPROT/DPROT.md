@@ -1,4 +1,4 @@
-# Subject
+# 🔐 Data Protection
 
 - ECTS Credits: 5
 - Final Grade: 7.3/10

@@ -1,12 +1,14 @@
-# Master of Cybersecurity
+# ⛓️ Blockchain
 
-## Blockchain
+- ECTS Credits: 5
+- Final Grade: 7.6/10
+- Total Learning Time: 125 hours
 
-### Teaching Methodology
+## Teaching Methodology
 
 Master classes mixed with practices.
 
-### Learning Objectives
+## Learning Objectives
 
 - Understand the concepts and design goals of digital cyrptocurrencies.
 - Understand the different types and implementations of consensus algorithms.
@@ -26,7 +28,7 @@ During this lab I sent some ETHs to a specific wallet address using the *Sepolia
 
 This final work document outlines smart contracts, their technical foundations, security concerns, and measures to address vulnerabilities. It covers tools for improving security, regulatory issues, and emerging trends like DeFi and cross-chain functionality.
 
-### Theory
+## Theory
 
 1. Centralized Digital Currencies
    - Problem of double spending
