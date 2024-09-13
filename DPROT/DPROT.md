@@ -4,8 +4,6 @@
 - Final Grade: 7.3/10
 - Total Learning Time: 125 hours
 
-Description...
-
 ## Teaching Methodology
 
 - Lectures
