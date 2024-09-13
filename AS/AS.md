@@ -4,8 +4,6 @@
 - Final Grade: 6.2/10
 - Total Learning Time: 125 hours
 
-This course covers advanced aspects of Internet applications, their development, and their security. Topics include security by design, privacy protocols, and sector-specific applications like eHealth and multimedia.
-
 ## Teaching Methodology
 
 The course is highly interactive, featuring lectures, student-led presentations, and lab sessions. Assignments involve researching advanced topics, writing short papers, and leading discussions. Lab work focuses on applying principles of Security by Design and Privacy by Design to develop secure applications.
