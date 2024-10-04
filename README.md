@@ -11,6 +11,7 @@ This portfolio is still under construction... Many links are still broken or ine
 The repository is structured by subject, with each folder containing detailed information about the theory and the assignments.
 
 - **[Semester 1](#semester-1)**
+
   - [Application Security](AS/AS.md)
   - [Blockchain](BKCHAIN/BKCHAIN.md)
   - [Data Protection](DPROT/DPROT.md)
@@ -36,20 +37,24 @@ The repository is structured by subject, with each folder containing detailed in
 
 #### Assignements
 
-- **Workshop #1** - [Electronic Signatures Standardization](AS/AS_WS1_Standardization.pdf)
-- **Workshop #2** - [ORM Injection](AS/AS_WS2_ORMi.pdf)
+- **Workshop #1** - [Electronic Signatures Standardization report](AS/AS_WS1_Standardization.pdf)
+- **Workshop #2** - [ORM Injection presentation](AS/AS_WS2_ORMi.pdf)
 - **Workshop #3** - IoT Security in Schools
   - [Article](AS/AS_WS3_IoT_Security_in_Schools_Article.pdf)
   - [Presentation](AS/AS_WS3_IoT_Security_in_Schools_Presentation.pdf)
-- **Project** - Security by Design Web Development
+- **Project** - Security by Design Web Development: Zotion a free note-taking app
   - [Report](AS/AS_Project_Report.pdf)
   - [Repository](https://github.com/blueh0rse/note-taking-app)
+
+#### Technologies used
+
+Node.js, Express, Vue.js, MongoDB, Docker
 
 ### ⛓️ Blockchain
 
 - **Grade**: 7.6/10
 - **Credits**: 5 ECTS
-- **Summary**: Provides an in-depth understanding of blockchain technology, including centralized and decentralized systems, cryptographic protocols, and the development of secure smart contracts. 
+- **Summary**: Provides an in-depth understanding of blockchain technology, including centralized and decentralized systems, cryptographic protocols, and the development of secure smart contracts.
 - [Detailed Overview](BKCHAIN/BKCHAIN.md)
 
 #### Assignements
@@ -59,6 +64,10 @@ The repository is structured by subject, with each folder containing detailed in
 - **Final Work** - Security in Smart Contracts
   - [Research Paper](BKCHAIN_Security_in_Smart_Contracts_Paper.pdf)
   - [Presentation](BKCHAIN_Security_in_Smart_Contracts_Presentation.pdf)
+
+#### Technologies used
+
+Sepolia, Remix
 
 ### 🔐 Data Protection
 
@@ -85,6 +94,10 @@ The repository is structured by subject, with each folder containing detailed in
   - [Report](./DPROT_Lab5_Digital_Signatures.pdf)
 - **Final work** - [Quantum Key Exchange Paper](./DPROT_Project_Quantum_Key_Exchange_Paper.pdf)
 
+#### Technologies used
+
+Bash, Python, openssl
+
 ### 🪱 Malware
 
 - **Grade**: 5.6/10
@@ -103,12 +116,20 @@ The repository is structured by subject, with each folder containing detailed in
   - [Report](./MALW_Project_Report.pdf)
   - [Repository](https://github.com/blueh0rse/ransom-worm)
 
+#### Technologies used
+
+Bash, Python, C, Assembly, hydra, john, curl
+
 ### 🖥️ Network Security
 
 - **Grade**: 8.1/10
 - **Credits**: 5 ECTS
 - **Summary**: Focuses on securing data communication networks, including the design and implementation of security protocols, perimeter defenses, VPNs, and advanced network forensic techniques.
 - [Detailed Overview](NS/NS.md)
+
+#### Technologies used
+
+openssl, mitm-proxy, john, hydra, sqlmap, node.js, express, oauth
 
 ### 🚦 Traffic Monitoring & Analysis
 
